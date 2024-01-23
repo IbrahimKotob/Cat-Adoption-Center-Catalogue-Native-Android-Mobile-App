@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CattoAppo</string>
+    <string name="main_optionsbutton">Find the perfect cat for you!</string>
+    <string name="main_cataloguebutton">Browse Our Catalogue Of Available Cats</string>
+    <string name="mainwelcome">Welcome To Catto Adoption Center!</string>
+    <string name="cat1desc">This cat has long fur and a playful personality, however she\'s not good for people with cat allergies</string>
+    <string name="cat1name">Tabby Orange Cat</string>
+    <string name="cat2desc">This cat has long fur and a playful personality, however she\'s good for people with cat allergies</string>
+    <string name="cat2name">Brown Spotted Cat</string>
+    <string name="cat3desc">This cat has long fur and a calm personality, however she\'s not good for people with cat allergies</string>
+    <string name="cat3name">Hamtaro Cat</string>
+    <string name="cat4desc">This cat has long fur and a calm personality, however she\'s good for people with cat allergies</string>
+    <string name="cat4name">Siamese Cat</string>
+    <string name="cat5desc">This cat has short fur and a playful personality, however she\'s not good for people with cat allergies</string>
+    <string name="cat5name">Calico Cat</string>
+    <string name="cat6desc">This cat has short fur and a calm personality, however she\'s not good for people with cat allergies</string>
+    <string name="cat6name">White Cat</string>
+    <string name="cat7desc">This cat has short fur and a playful personality, however she\'s good for people with cat allergies</string>
+    <string name="cat7name">Tabby Orange Cat</string>
+    <string name="cat8desc">This cat has short fur and a calm personality, however she\'s good for people with cat allergies</string>
+    <string name="cat8name">Scottish Fold</string>
+    <string name="optitle">Choose your cat\'s characteristics!</string>
+    <string name="opfur">Fur Length:</string>
+    <string name="opshortfur">Short Fur</string>
+    <string name="oplongfur">Long Fur</string>
+    <string name="oppersonality">Personality:</string>
+    <string name="play">Playful</string>
+    <string name="calm">Calm</string>
+    <string name="allergy">Do you have any Allergies?</string>
+    <string name="find">Find My Cat!</string>
+    <string name="menu">Main Menu</string>
+    <string name="InsertCat">Insert Cat</string>
+    <string name="deletecat">Delete/Update Cat</string>
+    <string name="adminpage">Admin Page</string>
+    <string name="open_nav">open</string>
+    <string name="close_nav">close</string>
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CattoAppo</string>
+    <string name="main_optionsbutton">ابحث عن القط المثالي لك!</string>
+    <string name="main_cataloguebutton">تصفح فهرسنا من القطط المتاحة</string>
+    <string name="mainwelcome">مرحبًا بك في مركز التبني الخاص بـ Catto!</string>
+    <string name="cat1desc">هذه القطة ذات فراء طويل وشخصية لعوبة، ولكنها ليست مناسبة للأشخاص الذين يعانون من حساسية القطط</string>
+    <string name="cat1name">قط الطبيعي البرتقالي</string>
+    <string name="cat2desc">هذه القطة ذات فراء طويل وشخصية لعوبة، وهي مناسبة للأشخاص الذين يعانون من حساسية القطط</string>
+    <string name="cat2name">قط البني المنقط</string>
+    <string name="cat3desc">هذه القطة ذات فراء طويل وشخصية هادئة، ولكنها ليست مناسبة للأشخاص الذين يعانون من حساسية القطط</string>
+    <string name="cat3name">قط هامتارو</string>
+    <string name="cat4desc">هذه القطة ذات فراء طويل وشخصية هادئة، وهي مناسبة للأشخاص الذين يعانون من حساسية القطط</string>
+    <string name="cat4name">قط السيامي</string>
+    <string name="cat5desc">هذه القطة ذات فراء قصير وشخصية لعوبة، ولكنها ليست مناسبة للأشخاص الذين يعانون من حساسية القطط</string>
+    <string name="cat5name">قط الكاليكو</string>
+    <string name="cat6desc">هذه القطة ذات فراء قصير وشخصية هادئة، ولكنها ليست مناسبة للأشخاص الذين يعانون من حساسية القطط</string>
+    <string name="cat6name">قط أبيض</string>
+    <string name="cat7desc">هذه القطة ذات فراء قصير وشخصية لعوبة، وهي مناسبة للأشخاص الذين يعانون من حساسية القطط</string>
+    <string name="cat7name">قط الطبيعي البرتقالي</string>
+    <string name="cat8desc">هذه القطة ذات فراء قصير وشخصية هادئة، وهي مناسبة للأشخاص الذين يعانون من حساسية القطط</string>
+    <string name="cat8name">القط الاسكتلندي المطوي</string>
+    <string name="optitle">اختر خصائص قطتك!</string>
+    <string name="opfur">طول الفراء:</string>
+    <string name="opshortfur">فراء قصير</string>
+    <string name="oplongfur">فراء طويل</string>
+    <string name="oppersonality">الشخصية:</string>
+    <string name="play">لعوب</string>
+    <string name="calm">هادئ</string>
+    <string name="allergy">هل لديك أي حساسية؟</string>
+    <string name="find">ابحث عن قطتي!</string>
+    <string name="menu">القائمة الرئيسية</string>
+    <string name="InsertCat">إدراج قطة</string>
+    <string name="deletecat">حذف/تحديث القطة</string>
+    <string name="adminpage">صفحة المشرف</string>
+</resources>

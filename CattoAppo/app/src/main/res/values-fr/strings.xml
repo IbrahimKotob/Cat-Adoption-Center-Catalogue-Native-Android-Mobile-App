@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CattoAppo</string>
+    <string name="main_optionsbutton">Trouvez le chat parfait pour vous !</string>
+    <string name="main_cataloguebutton">Parcourez notre catalogue de chats disponibles</string>
+    <string name="mainwelcome">Bienvenue au centre d\'adoption Catto !</string>
+    <string name="cat1desc">Ce chat a une longue fourrure et une personnalité enjouée, mais il n\'est pas bon pour les personnes allergiques aux chats.</string>
+    <string name="cat1name">Chat orange tigré</string>
+    <string name="cat2desc">Ce chat a une longue fourrure et une personnalité enjouée, mais il convient aux personnes allergiques aux chats.</string>
+    <string name="cat2name">Chat tacheté de brun</string>
+    <string name="cat3desc">Ce chat a une longue fourrure et une personnalité calme, mais il n\'est pas bon pour les personnes allergiques aux chats.</string>
+    <string name="cat3name">Chat Hamtaro</string>
+    <string name="cat4desc">Ce chat a une longue fourrure et une personnalité calme, mais il convient aux personnes allergiques aux chats.
+</string>
+    <string name="cat4name">Chat siamois</string>
+    <string name="cat5desc">Ce chat a une fourrure courte et une personnalité enjouée, mais il n\'est pas adapté aux personnes allergiques aux chats.</string>
+    <string name="cat5name">Chat Calico</string>
+    <string name="cat6desc">Ce chat a une fourrure courte et une personnalité calme, mais il n\'est pas adapté aux personnes allergiques aux chats.</string>
+    <string name="cat6name">Chat blanc</string>
+    <string name="cat7desc">Ce chat a une fourrure courte et une personnalité enjouée, mais il convient aux personnes allergiques aux chats.</string>
+    <string name="cat7name">Chat orange tigré</string>
+    <string name="cat8desc">Ce chat a une fourrure courte et une personnalité calme, mais il convient aux personnes allergiques aux chats.</string>
+    <string name="cat8name">Pli écossais</string>
+    <string name="optitle">Choisissez les caractéristiques de votre chat !</string>
+    <string name="opfur">Longueur de la fourrure :</string>
+    <string name="opshortfur">Fourrure courte</string>
+    <string name="oplongfur">Longue fourrure</string>
+    <string name="oppersonality">Personnalité:</string>
+    <string name="play">Espiègle</string>
+    <string name="calm">Calme</string>
+    <string name="allergy">As tu des allergies?</string>
+    <string name="find">Trouvez mon chat !</string>
+    <string name="menu">Menu principal</string>
+    <string name="InsertCat">Insérer un chat</string>
+    <string name="deletecat">Supprimer/Mettre à jour le chat</string>
+    <string name="adminpage">Page d\'administration</string>
+</resources>

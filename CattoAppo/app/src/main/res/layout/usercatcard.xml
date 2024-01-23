@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:padding="16dp"
+android:background="@drawable/otherborder">
+    <ImageView
+        android:id="@+id/imageCat"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="16dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/cat1" />
+
+    <TextView
+        android:id="@+id/textCatName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/imageCat"
+        android:layout_toEndOf="@id/imageCat"
+        android:text="Cat Name"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textBreed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textCatName"
+        android:layout_marginTop="4dp"
+        android:layout_toEndOf="@id/imageCat"
+        android:text="Breed: " />
+
+    <TextView
+        android:id="@+id/textFurLength"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textBreed"
+        android:layout_marginTop="4dp"
+        android:layout_toEndOf="@id/imageCat"
+        android:text="Fur Length: " />
+
+    <TextView
+        android:id="@+id/textPersonality"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textFurLength"
+        android:layout_marginTop="4dp"
+        android:layout_toEndOf="@id/imageCat"
+        android:text="Personality: " />
+
+    <TextView
+        android:id="@+id/textCausesAllergy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textPersonality"
+        android:layout_marginTop="4dp"
+        android:layout_toEndOf="@id/imageCat"
+        android:text="Causes Allergy: " />
+
+</RelativeLayout>
